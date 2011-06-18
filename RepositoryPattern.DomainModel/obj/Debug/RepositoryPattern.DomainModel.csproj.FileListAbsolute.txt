@@ -1,0 +1,7 @@
+C:\Projects\RepositoryPattern\RepositoryPattern.DomainModel\bin\Debug\RepositoryPattern.DomainModel.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.DomainModel\bin\Debug\RepositoryPattern.DomainModel.pdb
+C:\Projects\RepositoryPattern\RepositoryPattern.DomainModel\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RepositoryPattern\RepositoryPattern.DomainModel\obj\Debug\RepositoryPattern.DomainModel.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.DomainModel\obj\Debug\RepositoryPattern.DomainModel.pdb
+C:\Projects\RepositoryPattern\RepositoryPattern.DomainModel\bin\Debug\RepositoryPattern.Infrastructure.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.DomainModel\bin\Debug\RepositoryPattern.Infrastructure.pdb

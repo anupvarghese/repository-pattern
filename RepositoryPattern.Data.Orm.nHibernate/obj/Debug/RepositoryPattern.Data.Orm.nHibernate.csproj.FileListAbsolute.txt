@@ -1,0 +1,16 @@
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\RepositoryPattern.Data.Orm.nHibernate.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\RepositoryPattern.Data.Orm.nHibernate.pdb
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\Castle.Core.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\FluentNHibernate.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\Iesi.Collections.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\NHibernate.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\RepositoryPattern.Infrastructure.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\RepositoryPattern.Infrastructure.pdb
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\Castle.Core.xml
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\FluentNHibernate.pdb
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\Iesi.Collections.pdb
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\obj\Debug\RepositoryPattern.Data.Orm.nHibernate.dll
+C:\Projects\RepositoryPattern\RepositoryPattern.Data.Orm.nHibernate\obj\Debug\RepositoryPattern.Data.Orm.nHibernate.pdb
